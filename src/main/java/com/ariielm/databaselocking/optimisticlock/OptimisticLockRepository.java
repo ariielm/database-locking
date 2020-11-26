@@ -1,6 +1,5 @@
-package com.ariielm.databaselocking;
+package com.ariielm.databaselocking.optimisticlock;
 
-import com.ariielm.databaselocking.orm.Order;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
